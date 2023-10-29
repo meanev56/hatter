@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <header className="absolute w-[1440px] h-[180px] -top-px left-0">
+    <header className="absolute  w-[1440px] h-[180px] -top-px left-0">
           <img
             className="absolute w-[1440px] h-px top-[179px] left-0 object-cover"
             alt="Divider line"
@@ -38,7 +38,7 @@ const Header = () => {
               <div className="bg-dark-copy absolute w-[3px] h-[3px] top-[6px] left-[6px] rounded-[1.5px]" />
             </div>
           </div>
-        </header>
+    </header>
   )
 }
 

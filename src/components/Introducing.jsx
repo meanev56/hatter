@@ -13,7 +13,7 @@ const Introducing = () => {
     <div className="absolute w-[1087px] h-[553px] top-[137px] left-[131px]">
             <div className="relative w-[1081px] h-[553px]">
               <div className="absolute w-[1081px] h-[553px] top-0 left-0">
-                <div className="absolute top-[63px] left-[2px] [font-family:'Poppins',Helvetica] font-light text-[#957674] text-[16px] tracking-[0] leading-[normal]">
+                <div className="absolute top-[63px]  left-[2px] [font-family:'Poppins',Helvetica] font-light text-[#957674] text-[16px] tracking-[0] leading-[normal]">
                   Introducing
                 </div>
                 <div className="absolute w-[518px] h-[518px] top-[35px] left-[480px] rounded-[259px] border border-solid border-dark-copy opacity-10" />

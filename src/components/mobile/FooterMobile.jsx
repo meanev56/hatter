@@ -142,10 +142,10 @@ const FooterMobile = () => {
                 />
                 <div className="absolute w-[300px] h-[118px] top-[262px] left-0">
                   <div className="absolute w-[300px] h-[106px] top-0 left-0 bg-[#f6ece8]" />
-                  <div className="absolute w-[168px] top-[11px] left-[62px] [font-family:'Playfair_Display',Helvetica] italic text-[#957674] text-[28.2px] text-center leading-[normal] font-normal tracking-[0]">
+                  <div className="absolute w-[168px] top-[4px] left-[62px] [font-family:'Playfair_Display',Helvetica] italic text-[#957674] text-[28.2px] text-center leading-[normal] font-normal tracking-[0]">
                     The pretender
                   </div>
-                  <p className="absolute w-[213px] top-[54px] left-[43px] [font-family:'Poppins',Helvetica] font-normal text-[#957674] text-[9.4px] text-center tracking-[0] leading-[15.6px]">
+                  <p className="absolute w-[213px] top-[57px] left-[43px] [font-family:'Poppins',Helvetica] font-normal text-[#957674] text-[9.4px] text-center tracking-[0] leading-[15.6px]">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vestibulum.
                   </p>
                 </div>
@@ -158,7 +158,7 @@ const FooterMobile = () => {
               <img className="absolute w-[302px] h-[263px] top-0 left-0" alt="Rectangle" src="/imagesmobile/rectangle-9-1.png" />
               <div className="w-[302px] h-[119px] top-[263px] absolute left-0">
                 <div className="absolute w-[302px] h-[107px] top-0 left-0 bg-[#f6ece8]" />
-                <div className="absolute w-[175px] top-[11px] left-[64px] [font-family:'Playfair_Display',Helvetica] italic text-[#957674] text-[28.3px] text-center leading-[normal] font-normal tracking-[0]">
+                <div className="absolute w-[175px] top-[4px] left-[64px] [font-family:'Playfair_Display',Helvetica] italic text-[#957674] text-[28.3px] text-center leading-[normal] font-normal tracking-[0]">
                   The influencer
                 </div>
                 <p className="w-[214px] top-[54px] left-[44px] text-[#957674] text-[9.4px] text-center leading-[15.7px] absolute [font-family:'Poppins',Helvetica] font-normal tracking-[0]">
@@ -174,10 +174,10 @@ const FooterMobile = () => {
               />
               <div className="absolute w-[297px] h-[117px] top-[259px] left-0">
                 <div className="w-[297px] h-[105px] bg-[#f6ece8] absolute top-0 left-0" />
-                <div className="absolute w-[160px] top-[10px] left-[65px] [font-family:'Playfair_Display',Helvetica] font-normal italic text-[#957674] text-[27.9px] text-center tracking-[0] leading-[normal]">
+                <div className="absolute w-[160px] top-[4px] left-[65px] [font-family:'Playfair_Display',Helvetica] font-normal italic text-[#957674] text-[27.9px] text-center tracking-[0] leading-[normal]">
                   The andy cap
                 </div>
-                <p className="w-[210px] top-[53px] left-[43px] text-[#957674] text-[9.3px] text-center leading-[15.4px] absolute [font-family:'Poppins',Helvetica] font-normal tracking-[0]">
+                <p className="w-[210px] top-[56px] left-[43px] text-[#957674] text-[9.3px] text-center leading-[15.4px] absolute [font-family:'Poppins',Helvetica] font-normal tracking-[0]">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vestibulum.
                 </p>
               </div>
@@ -191,7 +191,7 @@ const FooterMobile = () => {
                 />
                 <div className="absolute w-[297px] h-[117px] top-[259px] left-0">
                   <div className="w-[297px] h-[105px] bg-[#f6ece8] absolute top-0 left-0" />
-                  <div className="absolute w-[153px] top-[10px] left-[69px] [font-family:'Playfair_Display',Helvetica] italic text-[#957674] text-[27.9px] text-center leading-[normal] font-normal tracking-[0]">
+                  <div className="absolute w-[153px] top-[4px] left-[69px] [font-family:'Playfair_Display',Helvetica] italic text-[#957674] text-[27.9px] text-center leading-[normal] font-normal tracking-[0]">
                     The traveller
                   </div>
                   <p className="w-[210px] top-[53px] left-[44px] text-[#957674] text-[9.3px] text-center leading-[15.4px] absolute [font-family:'Poppins',Helvetica] font-normal tracking-[0]">
@@ -224,7 +224,7 @@ const FooterMobile = () => {
                 <span className="tracking-[-10.62px]">&nbsp;</span>
                 <span className="tracking-[0]">ire headwear</span>
               </p>
-              <button className="w-[302px] top-[156px] left-[2px] absolute h-[75px] all-[unset] box-border">
+              <button className="w-[302px] top-[286px] left-[2px] absolute h-[75px] all-[unset] box-border">
                 <div className="relative w-[300px] h-[75px] rounded-[6.52px]">
                   <div className="absolute w-[261px] h-[39px] top-[32px] left-[19px] bg-white rounded-[6.52px] shadow-[0px_8.69px_36.95px_#964f4c52]" />
                   <div className="w-[300px] h-[75px] bg-white rounded-[6.52px] border-[1.09px] border-solid border-[#cfadab] absolute top-0 left-0" />

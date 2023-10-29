@@ -2,7 +2,7 @@ import React from 'react'
 
 const Brand = () => {
   return (
-    <div className="absolute w-[1180px] h-[190px] top-[791px] left-[136px]">
+    <section className="absolute w-[1180px] h-[190px] top-[791px] left-[136px]">
             <div className="absolute top-px left-[22px] hover:text-green-400 font-h2 font-[number:var(--h2-font-weight)] [font-style:var(--h2-font-style)] text-[#111111] text-[length:var(--h2-font-size)] text-center tracking-[var(--h2-letter-spacing)] leading-[var(--h2-line-height)]">
               Brands
             </div>
@@ -41,7 +41,7 @@ const Brand = () => {
               <div className="absolute w-[3px] h-[3px] top-0 left-[6px] bg-highlights rounded-[1.5px]" />
               <div className="bg-highlights absolute w-[3px] h-[3px] top-[6px] left-[6px] rounded-[1.5px]" />
             </div>
-          </div>
+    </section>
   )
 }
 
